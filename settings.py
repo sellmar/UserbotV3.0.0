@@ -1,7 +1,7 @@
 # === TELEGRAM OWNER ===
-OWNER_ID = 7756491096
+OWNER_ID = 7906540029
 PP = "https://files.catbox.moe/zzx0s5.jpg"
-BOT_TOKEN = "Your-Bot_Token"
+BOT_TOKEN = "8393465556:AAFhQr7r0y1wi_4JropyeWNRnBDK_4Ux5S4"
 # === PTERODACTYL PANEL ===
 DOMAIN = "YourDomain"
 PLTA = "ptla_ZeiAUwnqme299jhutwvbKYpOS0AWDUORRKJQtG4qbdR"
